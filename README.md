@@ -65,6 +65,8 @@ Features
  Song Panel
 ![Song Panel](screenshots/song_panel.png)
 
+Delete Song In Favorites
+![Deleting Song](screenshots/delete.png)
  Contributing
 
 1. Fork the repository.
