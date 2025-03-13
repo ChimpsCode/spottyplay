@@ -51,22 +51,22 @@ Features
  Screenshots
 
  Animation Intro
-![Animation Intro](screenshots/animation_intro.png)
+![Animation Intro](animation_intro.png)
 
  Home
-![Home](screenshots/home.png)
+![Home](home.png)
 
  Musics
-![Musics](screenshots/musics.png)
+![Musics](musics.png)
 
  Favorites
-![Favorites](screenshots/favorites.png)
+![Favorites](favorites.png)
 
  Song Panel
-![Song Panel](screenshots/song_panel.png)
+![Song Panel](song_panel.png)
 
 Delete Song In Favorites
-![Deleting Song](screenshots/delete.png)
+![Deleting Song](delete.png)
  Contributing
 
 1. Fork the repository.
